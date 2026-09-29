@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=hernan09-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/hernan09/hernan09/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/hernan09-png/hernan09-png/snake-output/snake.svg" alt="Snake animation" />
 
 
 
