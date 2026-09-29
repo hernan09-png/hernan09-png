@@ -15,7 +15,7 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/hernan09/hernan09/snake-output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
 ### ✍️ Random Dev Quote
