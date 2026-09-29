@@ -3,18 +3,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/reyezx79?igsh=MTFqcGMyMDVnYmZ6ag==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hernanxz9?is_from_webapp=1&sender_device=pc) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Reyez Isaias) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hernanreyezz09@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<div data-importer="image" align="center">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://imagepaste.org/i/yqcbattz.png"  />
 </div>
 
 ###
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hernan09-png&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)                                                                     
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hernan09-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
