@@ -7,15 +7,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br clear="both">
-
-<img data-importer="image" align="right" height="208" src="https://imagepaste.org/i/yqcbattz.png"  />
-
-###
+![](https://github-readme-stats.shion.dev/api?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hernan09-png&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br clear="both">
 
+<div data-importer="image" align="left">
+  <img data-importer="image" height="223" src="https://imagepaste.org/i/yqcbattz.png"  />
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hernan09-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
