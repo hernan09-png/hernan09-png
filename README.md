@@ -4,6 +4,13 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://imagepaste.org/i/yqcbattz.png"  />
+</div>
+
+###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hernan09-png&theme=dark&hide_border=false)<br/>
