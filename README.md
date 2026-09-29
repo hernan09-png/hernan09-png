@@ -42,6 +42,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hernan09-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/reyezz_77">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=reyezz_77&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=hernan09-png&icon=0&color=0)](https://visitcount.itsvg.in)
 
