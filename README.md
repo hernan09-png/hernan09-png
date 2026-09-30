@@ -8,12 +8,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hernan09-png&theme=dark&hide_border=false)<br/>
 <br clear="both">
 
 <img data-importer="image" align="right" height="207" src="https://imagepaste.org/i/yqcbattz.png"  />
 
 ###
+![](https://streak-stats.demolab.com/?user=hernan09-png&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hernan09-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
